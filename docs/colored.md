@@ -55,11 +55,11 @@ Thank you, John Henry -- my cosmic non-identical twin -- for your wonderful art 
 
 ## -
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0496-ancestors-posters.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0496-ancestors-posters.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0496-ancestors-posters.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0496-ancestors-posters.JPEG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)
 
 ## Technology - How I built this
 
@@ -72,4 +72,4 @@ Technologies:
 
 Data Portraits - 2022 addition
 
-[![](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
+[![](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)

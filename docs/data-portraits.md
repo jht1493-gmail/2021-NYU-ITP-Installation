@@ -11,9 +11,9 @@ Portraits of Black Americans were an important part of the W.E. B. Du Bois' Exhi
 
 "Data Portraits" amplifies the humanization of DuBois’ 1900 statistical compilations by pairing the data visualizations directly with portraits of Black Americans which also appeared in his Paris Expo exhibit. The viewers are superimposed in real time as abstract digital figures colored red, green and gold - the colors of black liberation.
 
-[![](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8647-data-p.jpg)](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8647-data-p.jpg)
+[![](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8647-data-p.jpg)](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8647-data-p.jpg)
 
-[![](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
+[![](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
 
 <!-- sftp://jht1493.net//opt/bitnami/apache/htdocs/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8647-data-p.jpg
 

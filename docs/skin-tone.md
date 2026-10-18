@@ -21,16 +21,16 @@ SKIN TONE is inspired by the work of
 [Brazilian artist Angelica Dass’ Humane project](https://angelicadass.com/photography/humanae/)
 “...attempting to document humanity’s true colors rather than the untrue labels “white”, “red”, “black” and “yellow” associated with race.” Using artificial intelligence and live video effects SKIN TONE interrogates our tendency to reduce very complex phenomena into something singular and invites us to reflect on this drive for efficiency and uniformity.
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0480-shindy-skin-tone.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0480-shindy-skin-tone.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0480-shindy-skin-tone.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0480-shindy-skin-tone.JPEG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0482-skin-tone-collage.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0482-skin-tone-collage.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0482-skin-tone-collage.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0482-skin-tone-collage.JPEG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0490-skin-tone-jht.JPG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0490-skin-tone-jht.JPG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0490-skin-tone-jht.JPG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0490-skin-tone-jht.JPG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)

@@ -15,7 +15,7 @@ Which led to:
 
 [The COVID-19 Impact Project: Extracting Stories From Data](https://covid19impactproject.com/extracting-stories-from-data/), 2021 Feb NYU-ITP Course.
 
-[The Covid Memorial Ticker](https://jht1493.net/a1/skt/covid19_heal_ticker), this installation.
+[The Covid Memorial Ticker](https://m.jht1493.net/a1/skt/covid19_heal_ticker), this installation.
 
 How can a public memorial be presented for the many who have died (and will die) from the COVID-19 pandemic? The COVID Memorial Ticker explores one possibility as an installation on the floor of NYU-ITP. Total deaths in the USA per day from COVID-19 are displayed as simple squares. The death count for yesterday is shown along with the count of each preceding day, back to the beginning of the pandemic - February 2020.
 
@@ -27,6 +27,6 @@ Credit [epvisual.com](https://epvisual.com/) for initial support.
 
 [2021 02 02 covid 19 ticker](https://www.youtube.com/watch?v=ZNKkax-VSDo&list=PLTqu0aYG0uh7MVihcIwuEK1ulJV8flsU6) - video Instrumental music credit Music credit: [Madiba Johnson](https://youtu.be/wBvDvnbOpBE)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)
