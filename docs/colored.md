@@ -72,4 +72,4 @@ Technologies:
 
 Data Portraits - 2022 addition
 
-[![](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://m.jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
+[![](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://m.jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
